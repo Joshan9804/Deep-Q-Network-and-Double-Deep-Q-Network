@@ -1,1 +1,1 @@
-# eep-Q-Network-and-Double-Deep-Q-Network
+# Deep-Q-Network-and-Double-Deep-Q-Network
